@@ -1,0 +1,12 @@
+facility_name,operator,city,county,state,electrical_capacity_mw_public,fmv_billions,status
+Crusoe Stargate Abilene Campus,Crusoe / OpenAI (campus tenant) / Blue Owl JV,Abilene,Taylor County,TX,1200.0,11.6,under construction / phased
+CleanArc Caroline County Campus,CleanArc Data Centers,Caroline County,Caroline County,VA,600.0,8.8,approved / phased development
+EdgeCore Mesa Campus,EdgeCore Digital Infrastructure,Mesa,Maricopa County,AZ,450.0,1.9,expanding / financed
+NTT Pacific Proving Campus,NTT Global Data Centers,Mesa,Maricopa County,AZ,360.0,0.3,planned / land acquired
+Microsoft Project Steamboat,Microsoft / EdgeConneX / TA Realty,Union City,Fulton County,GA,324.0,1.842,planned / phased
+Tract Fleet Data Centers,Tract,TRIC / Reno area,Storey County,NV,230.0,3.8,financed / under development
+Vantage NV1 Campus,Vantage Data Centers,Reno area,Storey County,NV,224.0,3.0,planned / pre-leased
+Skybox Chicago I / Elk Grove Campus,Skybox Datacenters,Elk Grove Village,Cook County,IL,150.0,1.0,partially operational / campus planned
+Goodman Innovation Centre San Jose,Goodman Group,San Jose,Santa Clara County,CA,97.3,0.2,planned / acquired
+T5@Chicago III,T5 Data Centers,Northlake,Cook County,IL,36.0,0.5,under construction
+FirstLight,Antin Infrastructure,Brunswick,Cumberland,ME,0.9,0.0007786,operational / expandable
