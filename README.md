@@ -1,2 +1,2 @@
-# UtahDataCenterTaxRev
-Code and web application for Utah Data Center Tax Revenue tool
+# Utah Data Center Tax Revenue tool
+Code and web application for Utah Data Center Tax Revenue tool.

@@ -1,0 +1,50 @@
+[project]
+name = "utdctaxrev"
+version = "0.0.0"
+description = "Data, code, and images for Utah Data Center Tax Revenue tool"
+readme = "README.md"
+license = "CCO-1.0"
+requires-python = ">=3.11,<3.14"
+authors = [
+    { name = "Richard W. Evans" },
+]
+keywords = [
+    "data visualization",
+    "geospatial",
+    "gis",
+    "bokeh",
+    "maine",
+    "property tax",
+    "data center",
+    "geopandas"
+]
+classifiers = [
+    "Development Status :: 3 - Alpha",
+    "Intended Audience :: Science/Research",
+    "License :: CC0 1.0 Universal (CC0 1.0) Public Domain Dedication",
+    "Operating System :: OS Independent",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Programming Language :: Python :: 3.13",
+    "Topic :: Scientific/Engineering",
+]
+dependencies = [
+    "bokeh>=3.1.1",
+    "matplotlib",
+    "geopandas",
+    "numpy",
+    "scipy",
+    "pandas",
+    "openpyxl",
+    "pathlib",
+    "ipython",
+    "jupyter",
+    "ipykernel",
+]
+[tool.uv]
+package = false
+
+[project.urls]
+Repository = "https://github.com/OpenSourceEcon/UtahDataCenterTaxRev"
+Issues = "https://github.com/OpenSourceEcon/UtahDataCenterTaxRev/issues"
